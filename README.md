@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 ### Backend Development
 - **Languages:** JavaScript, Python, SQL (learning)
 - **Frameworks & Tools:** Node.js, Express
-- ** Currently learning: MongoDB, PostgreSQL, FastAPI, Flask, Django
+- **Currently learning: MongoDB, PostgreSQL, FastAPI, Flask, Django
 
 ### Mobile Development
 - **Languages:** Dart
