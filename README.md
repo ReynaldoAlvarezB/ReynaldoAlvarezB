@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 
 ### Other Tools & Technologies
 - **CAD Software:** AutoCAD, Fusion 360, Inventor
+- **PCB DESIGN Software:** Altium Designer
 - **Microcontrollers & FPGA:** Experience with Arduino and FPGA (VHDL)
 - **Version Control:** Git, GitHub
 - **Languages (additional):** C (basic)
